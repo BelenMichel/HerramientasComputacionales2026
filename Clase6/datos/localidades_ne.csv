@@ -1,0 +1,159 @@
+nombre,provincia_ne,tipo,poblacion,latitud,longitud
+Buenos Aires,Ciudad de Buenos Aires,capital nacional,12795000,-34.600556,-58.399477
+Córdoba,Córdoba,capital provincial,1452000,-31.398012,-64.18424
+Rosario,Santa Fe,localidad,1203000,-32.949184,-60.668254
+Mendoza,Mendoza,capital provincial,893000,-32.881384,-68.818557
+Tucumán,Tucumán,capital provincial,830000,-26.814054,-65.21857
+La Plata,Ciudad de Buenos Aires,capital provincial,694253,-34.909615,-57.959961
+Mar del Plata,Ciudad de Buenos Aires,localidad,555897,-38.00002,-57.579984
+Salta,Salta,capital provincial,512686,-24.783359,-65.416638
+Santa Fe,Santa Fe,capital provincial,489505,-31.623872,-60.690001
+San Juan,San Juan,capital provincial,447048,-31.550026,-68.519988
+San Luis,San Luis,capital provincial,432310,-33.299997,-66.350018
+Resistencia,Chaco,capital provincial,387158,-27.459992,-58.990028
+Posadas,Misiones,capital provincial,357119,-27.357832,-55.885107
+Santiago del Estero,Santiago del Estero,capital provincial,354692,-27.783331,-64.266656
+Corrientes,Corrientes,capital provincial,340823,-27.489964,-58.809987
+San Salvador de Jujuy,Jujuy,capital provincial,305891,-24.183344,-65.30003
+Bahía Blanca,Ciudad de Buenos Aires,localidad,281536,-38.740027,-62.265021
+Paraná,Entre Ríos,capital provincial,262295,-31.733323,-60.533344
+Neuquén,Neuquén,capital provincial,242092,-38.95004,-68.059991
+Formosa,Formosa,capital provincial,221383,-26.172835,-58.182816
+Catamarca,Catamarca,capital provincial,188812,-28.470008,-65.780001
+La Rioja,La Rioja,capital provincial,162620,-29.40995,-66.849961
+Río Cuarto,Córdoba,localidad,153757,-33.130033,-64.349985
+Concordia,Entre Ríos,localidad,145210,-31.389571,-58.029983
+Comodoro Rivadavia,Chubut,localidad,140850,-45.870031,-67.499999
+San Nicolas,Ciudad de Buenos Aires,localidad,127742,-33.330021,-60.240003
+San Martín,Mendoza,localidad,117399,-33.069985,-68.490016
+Santa Rosa,La Pampa,capital provincial,111424,-36.620001,-64.299988
+San Rafael,Mendoza,localidad,109163,-34.600021,-68.333333
+Tandil,Ciudad de Buenos Aires,localidad,104325,-37.32001,-59.150044
+Bariloche,Río Negro,localidad,95394,-41.149957,-71.3
+Trelew,Chubut,localidad,93442,-43.250036,-65.329951
+Villa María,Córdoba,localidad,92453,-32.410026,-63.260025
+Reconquista,Santa Fe,localidad,90184,-29.139528,-59.650013
+Zárate,Ciudad de Buenos Aires,localidad,88781,-34.089561,-59.040025
+Rafaela,Santa Fe,localidad,88713,-31.250045,-61.499978
+Pergamino,Ciudad de Buenos Aires,localidad,87652,-33.899599,-60.569983
+Olavarría,Ciudad de Buenos Aires,localidad,86320,-36.900036,-60.329997
+Río Gallegos,Santa Cruz,capital provincial,85700,-51.633297,-69.216587
+Junín,Ciudad de Buenos Aires,localidad,85007,-34.58457,-60.958874
+Yacuíba,Salta,localidad,82803,-22.030039,-63.699998
+Presidencia Roque Saenz Pena,Chaco,localidad,81879,-26.790007,-60.450016
+Luján,Ciudad de Buenos Aires,localidad,81749,-34.579609,-59.109994
+Campana,Ciudad de Buenos Aires,localidad,81612,-34.159996,-58.959978
+Necochea,Ciudad de Buenos Aires,localidad,80478,-38.559986,-58.749991
+Gualeguaychú,Entre Ríos,localidad,78676,-33.020014,-58.520005
+San Ramón de la Nueva Orán,Salta,localidad,74059,-23.139997,-64.320012
+General Roca,Río Negro,localidad,73212,-39.019958,-67.609967
+Venado Tuerto,Santa Fe,localidad,72340,-33.749582,-61.970001
+Goya,Corrientes,localidad,72304,-29.139993,-59.269985
+Villa Carlos Paz,Córdoba,localidad,69451,-31.420009,-64.500001
+Concepción del Uruguay,Entre Ríos,localidad,67895,-32.479996,-58.239996
+Las Heras,Mendoza,localidad,66663,-32.825039,-68.801677
+Puerto Madryn,Chubut,localidad,64555,-42.770013,-65.04002
+Tartagal,Salta,localidad,60819,-22.550007,-63.810018
+Viedma,Ciudad de Buenos Aires,capital provincial,59122,-40.799953,-63.000015
+San Francisco,Córdoba,localidad,59062,-31.430034,-62.089968
+San Pedro,Jujuy,localidad,58430,-24.219621,-64.870005
+Ushuaia,Tierra del Fuego,capital provincial,58028,-54.790003,-68.310001
+Punta Alta,Ciudad de Buenos Aires,localidad,57209,-38.879967,-62.079968
+General Pico,La Pampa,localidad,57029,-35.659595,-63.77002
+Chivilcoy,Ciudad de Buenos Aires,localidad,54514,-34.899951,-60.039989
+Azul,Ciudad de Buenos Aires,localidad,53941,-36.77963,-59.87
+Río Tercero,Córdoba,localidad,53389,-32.1796,-64.120025
+Mercedes,Ciudad de Buenos Aires,localidad,52949,-34.660018,-59.440026
+Mercedes,San Luis,localidad,49345,-33.689586,-65.469968
+Libertador General San Martín,Jujuy,localidad,49267,-23.819542,-64.789984
+Cutral Có,Neuquén,localidad,47814,-38.940015,-69.240022
+San Lorenzo,Corrientes,localidad,47626,-28.120003,-58.769989
+Tres Arroyos,Ciudad de Buenos Aires,localidad,47136,-38.369972,-60.269949
+Villa Constitución,Santa Fe,localidad,44271,-33.230027,-60.350022
+Alta Gracia,Córdoba,localidad,40384,-31.659994,-64.42998
+Bell Ville,Córdoba,localidad,35105,-32.60004,-62.679957
+Nueve de Julio,Ciudad de Buenos Aires,localidad,34718,-35.445964,-60.889989
+Chacabuco,Ciudad de Buenos Aires,localidad,34587,-34.650044,-60.489988
+Gualeguay,Entre Ríos,localidad,33120,-33.150032,-59.340006
+Rio Grande,Tierra del Fuego,localidad,31095,-53.791446,-67.698995
+Mercedes,Corrientes,localidad,30649,-29.179577,-58.07998
+Villa Ángela,Chaco,localidad,30051,-27.583292,-60.716666
+Coronel Suárez,Ciudad de Buenos Aires,localidad,27000,-37.466616,-61.916619
+Rawson,Chubut,capital provincial,26335,-43.300007,-65.099991
+Dolores,Ciudad de Buenos Aires,localidad,25190,-36.330045,-57.689978
+Victoria,Entre Ríos,localidad,25139,-32.610013,-60.179981
+Lincoln,Ciudad de Buenos Aires,localidad,24798,-34.880004,-61.539949
+Veinticinco de Mayo,Ciudad de Buenos Aires,localidad,24668,-35.429996,-60.179981
+Tunuyán,Mendoza,localidad,22834,-33.566182,-69.016677
+Chascomús,Ciudad de Buenos Aires,localidad,21054,-35.566215,-58.016624
+Chilecito,La Rioja,localidad,20343,-29.165521,-67.499999
+Esquel,Chubut,localidad,20048,-42.900031,-71.316614
+General Guemes,Salta,localidad,19828,-24.666622,-65.049968
+Zapala,Neuqutn,localidad,19152,-38.900017,-70.066664
+Balcarce,Ciudad de Buenos Aires,localidad,18967,-37.833312,-58.249995
+Charata,Chaco,localidad,18297,-27.216286,-61.199996
+Lobos,Ciudad de Buenos Aires,localidad,18278,-35.184895,-59.094672
+25 de Mayo,RRo Negro,localidad,17430,-37.800033,-67.683295
+Eldorado,Misiones,localidad,17365,-26.200017,-54.599985
+Añatuya,Santiago del Estero,localidad,14133,-28.466132,-62.833307
+Mar de Ajó,Ciudad de Buenos Aires,localidad,13610,-36.716223,-56.676603
+Frias,Santiago del Estero,localidad,13594,-28.649583,-65.149987
+Joaquín V. González,Salta,localidad,13376,-25.083341,-64.183354
+Sunchales,Santa Fe,localidad,12655,-30.932907,-61.566614
+Malargüe,Mendoza,localidad,11847,-35.466118,-69.583309
+Cafayate,Salta,localidad,11785,-26.082918,-65.966604
+Río Colorado,La Pampa,localidad,11499,-38.966576,-64.083283
+Cerrillos,Salta,localidad,11498,-24.899631,-65.4833
+Monte Quemado,Santiago del Estero,localidad,11387,-25.799628,-62.866587
+Humahuaca,Jujuy,localidad,11369,-23.199994,-65.349949
+Belen,Catamarca,localidad,11359,-27.649593,-67.033283
+Benito Juárez,Ciudad de Buenos Aires,localidad,10609,-37.665519,-59.80003
+Choele Choel,RRo Negro,localidad,10000,-39.26661,-65.683314
+Vera,Santa Fe,localidad,9979,-29.466174,-60.216594
+San Justo,Santa Fe,localidad,9607,-30.78289,-60.583289
+Juan José Castelli,Chaco,localidad,9421,-25.949541,-60.616647
+Chamical,La Rioja,localidad,8989,-30.349583,-66.31666
+Chos Malal,Neuqutn,localidad,8556,-37.382952,-70.266574
+San Antonio Oeste,RRo Negro,localidad,8492,-40.732877,-64.933282
+El Calafate,Santa Cruz,localidad,8000,-50.333324,-72.300016
+Las Lomitas,Formosa,localidad,7683,-24.699592,-60.600007
+Carhué,Ciudad de Buenos Aires,localidad,7190,-37.182861,-62.733313
+Pedro Luro,Ciudad de Buenos Aires,localidad,7100,-39.483341,-62.683316
+Rinconada,Jujuy,localidad,6692,-22.432909,-66.166592
+Ingeniero Guillermo N. Juarez,Formosa,localidad,6453,-23.900002,-61.849982
+Doctor Pedro P. Peña,Formosa,localidad,6143,-22.479986,-62.299981
+Chepes,La Rioja,localidad,6020,-31.349987,-66.599951
+Ingeniero Jacobacci,RRo Negro,localidad,5719,-41.300026,-69.583309
+28 de Noviembre,Santa Cruz,localidad,5300,-51.65004,-72.300016
+Sarmiento,Chubut,localidad,5185,-45.600022,-69.083313
+Abra Pampa,Jujuy,localidad,4480,-22.716664,-65.69998
+Victorica,La Pampa,localidad,4458,-36.216253,-65.450021
+La Paz,Mendoza,localidad,4400,-33.466137,-67.549996
+Comandante Fontana,Formosa,localidad,4277,-25.3333,-59.683319
+El Maitén,Chubut,localidad,4269,-42.050006,-71.166623
+San Antonio de los Cobres,Salta,localidad,4000,-24.182931,-66.350018
+Perito Moreno,Santa Cruz,localidad,3766,-46.600012,-70.933355
+Darregueira,Ciudad de Buenos Aires,localidad,3412,-37.699574,-63.166594
+Puerto Deseado,Santa Cruz,localidad,3305,-47.75002,-65.899968
+General Conesa,RRo Negro,localidad,2958,-40.100047,-64.433287
+Pampa del Infierno,Chaco,localidad,2921,-26.516587,-61.166587
+Villalonga,Ciudad de Buenos Aires,localidad,2838,-39.882851,-62.583322
+Chumbicha,Catamarca,localidad,2572,-28.866624,-66.233306
+Gobernador Gregores,Santa Cruz,localidad,2519,-48.766598,-70.250012
+Uspallata,Mendoza,localidad,2390,-32.593115,-69.345985
+Puerto San Julián,Santa Cruz,localidad,2347,-49.300002,-67.716653
+Paso Río Mayo,Chubut,localidad,1825,-45.683376,-70.266574
+Trancas,Tucumtn,localidad,1599,-26.216657,-65.283313
+Alto Rio Sanguer,Chubut,localidad,1548,-45.033286,-70.833284
+Sierra Colorado,RRo Negro,localidad,1522,-40.58286,-67.799981
+Villa Rumipal,CRrdoba,localidad,1269,-32.183321,-64.483284
+Las Lajas,Neuqutn,localidad,1218,-38.516268,-70.366594
+Los Blancos,Salta,localidad,1145,-23.599607,-62.60004
+Susques,Jujuy,localidad,1093,-23.416673,-66.483317
+Comallo,RRo Negro,localidad,741,-41.033324,-70.266574
+Rodeo,San Juan,localidad,701,-30.215586,-69.139951
+Las Plumas,Chubut,localidad,605,-43.416279,-67.249988
+Tinogasta,Catamarca,localidad,587,-28.066622,-67.566584
+Gastre,Chubut,localidad,557,-42.282963,-69.233304
+Telsen,Chubut,localidad,500,-42.399597,-66.950007
+Comondante Luis Piedrabuena,Santa Cruz,localidad,410,-49.974549,-68.903473
